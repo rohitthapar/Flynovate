@@ -201,7 +201,7 @@ form.sign-in-form {
 }
 
 .panel .content {
-  color: #fff;
+  color: rgb(255, 242, 242);
   transition: transform 0.9s ease-in-out;
   transition-delay: 0.6s;
 }
